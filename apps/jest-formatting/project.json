@@ -1,0 +1,9 @@
+{
+  "name": "jest-formatting",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/jest-formatting/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project jest-formatting --web",
+  "targets": {}
+}
