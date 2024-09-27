@@ -7,4 +7,6 @@ export default {
   },
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx'],
   coverageDirectory: '../../coverage/apps/jest-formatting',
+  collectCoverage: true,
+  coverageReporters: ["clover", "json", "lcov", "text-summary"]
 };
